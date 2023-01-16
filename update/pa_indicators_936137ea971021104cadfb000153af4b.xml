@@ -42,14 +42,14 @@
         <order/>
         <override_periods>false</override_periods>
         <precision>0</precision>
-        <related_breakdowns>2</related_breakdowns>
+        <related_breakdowns>3</related_breakdowns>
         <related_jobs>4</related_jobs>
         <render_continuous_lines>false</render_continuous_lines>
         <role_override>false</role_override>
         <roles/>
         <score_periods>-1</score_periods>
         <scores_format>kMGTPE</scores_format>
-        <scores_modified_at>2023-01-13 14:36:58</scores_modified_at>
+        <scores_modified_at>2023-01-16 08:49:32</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>

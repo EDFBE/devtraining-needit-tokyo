@@ -3,7 +3,7 @@
         <breakdown display_value="NeedIt Request type">ea60447a975021104cadfb000153af3b</breakdown>
         <display>true</display>
         <indicator display_value="NeedIt: Due Monthly">936137ea971021104cadfb000153af4b</indicator>
-        <order/>
+        <order>100</order>
         <sql_statement/>
         <sys_class_name>pa_indicator_breakdowns</sys_class_name>
         <sys_created_by>admin</sys_created_by>

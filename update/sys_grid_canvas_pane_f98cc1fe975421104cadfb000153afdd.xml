@@ -4,7 +4,7 @@
         <height>14</height>
         <portal_widget display_value="Created 2023-01-13 08:58:43">bd8cc1fe975421104cadfb000153afda</portal_widget>
         <posx>0</posx>
-        <posy>0</posy>
+        <posy>10</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-13 16:58:43</sys_created_on>
