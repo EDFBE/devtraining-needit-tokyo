@@ -17,7 +17,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_properties_91d16228972461104cadfb000153af49</sys_update_name>
         <type>string</type>
-        <value/>
+        <value>2</value>
         <write_roles>x_58872_needit.admin</write_roles>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=91d16228972461104cadfb000153af49"/>
